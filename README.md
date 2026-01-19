@@ -1,4 +1,4 @@
-# Introduction à GHITUB
+# Introduction à GITHUB
 This is a test repository for school
 
 ## UNIX commands
